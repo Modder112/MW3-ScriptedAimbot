@@ -1,0 +1,6 @@
+c:\users\agando\documents\visual studio 2012\Projects\CheatEngine\CheatEngine\bin\Debug\InfinityScript.dll
+c:\users\agando\documents\visual studio 2012\Projects\CheatEngine\CheatEngine\obj\Debug\CheatEngine.csprojResolveAssemblyReference.cache
+C:\Users\Agando\Documents\Visual Studio 2012\Projects\CheatEngine\CheatEngine\bin\Debug\CheatEnginev2.dll
+C:\Users\Agando\Documents\Visual Studio 2012\Projects\CheatEngine\CheatEngine\bin\Debug\CheatEnginev2.pdb
+C:\Users\Agando\Documents\Visual Studio 2012\Projects\CheatEngine\CheatEngine\obj\Debug\CheatEnginev2.dll
+C:\Users\Agando\Documents\Visual Studio 2012\Projects\CheatEngine\CheatEngine\obj\Debug\CheatEnginev2.pdb
